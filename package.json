@@ -1,0 +1,18 @@
+{
+  "name": "yan-enlarge",
+  "version": "1.0.0",
+  "description": "商品展示带放大镜功能",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "^3.2.39"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "surge",
+  "license": "MIT",
+  "keywords": [
+    "放大镜"
+  ]
+}
