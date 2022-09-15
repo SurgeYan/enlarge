@@ -1,5 +1,5 @@
 # enlarge
-# 放大镜组件
+## 放大镜组件
 ```javascript
 npm i yan-enlarge 
 pnpm i yan-enlarge
