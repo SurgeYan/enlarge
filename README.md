@@ -6,7 +6,7 @@
 # 传入一个图片src组成的数组
 ## 例：
 <!-- 引入 -->
-import Enlarge from 'yan-enlarge'
+> import Enlarge from 'yan-enlarge'
 const imagesList = [
     'https://yanxuan-item.nosdn.127.net/ade0ec4f0d2d56c723becb8002a69f75.png',
     'https://yanxuan-item.nosdn.127.net/4c6a9c8a579b00e5e9c7b002d15a33a2.jpg',
