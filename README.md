@@ -1,8 +1,10 @@
 # enlarge
-放大镜组件
-npm i yan-enlarge Or pnpm i yan-enlarge
-传入一个图片src组成的数组
-例：
+# 放大镜组件
+### npm i yan-enlarge 
+# Or 
+### pnpm i yan-enlarge
+# 传入一个图片src组成的数组
+## 例：
 <!-- 引入 -->
 import Enlarge from 'yan-enlarge'
 const imagesList = [
