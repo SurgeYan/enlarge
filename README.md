@@ -5,11 +5,11 @@
 ### pnpm i yan-enlarge
 # 传入一个图片src组成的数组
 ## 例：
-```java
+```JavaScript
 <!-- 引入 -->
 import Enlarge from 'yan-enlarge'
 ```
-```java
+```JavaScript
 const imagesList = [
     'https://yanxuan-item.nosdn.127.net/ade0ec4f0d2d56c723becb8002a69f75.png',
     'https://yanxuan-item.nosdn.127.net/4c6a9c8a579b00e5e9c7b002d15a33a2.jpg',
@@ -18,7 +18,7 @@ const imagesList = [
     'https://yanxuan-item.nosdn.127.net/e52eb92a519a268c4b6c54c4ad2bb95d.png',
 ]
 ```
-```java
+```JavaScript
 <!-- 使用 -->
 <enlarge :images="imagesList" />
 ```
