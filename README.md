@@ -7,7 +7,7 @@
 ## 例：
 ```java
 <!-- 引入 -->
-> import Enlarge from 'yan-enlarge'
+import Enlarge from 'yan-enlarge'
 ```
 ```java
 const imagesList = [
